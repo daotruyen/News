@@ -1,0 +1,23 @@
+export default linkHome = [
+     {name : " Trang chủ",link : "https://vnexpress.net/rss/tin-moi-nhat.rss"},
+     {name : "Thời sự",link : "https://vnexpress.net/rss/thoi-su.rss"},
+     {name: "Sức khoẻ",link : "https://vnexpress.net/rss/suc-khoe.rss"},
+     {name: "Thế giới", link : "https://vnexpress.net/rss/the-gioi.rss"},
+     {name : "Gia đình", link : "https://vnexpress.net/rss/gia-dinh.rss"},
+    
+     {name : "Du lịch", link : "https://vnexpress.net/rss/du-lich.rss"},
+     {name : "Kinh doanh", link : "https://vnexpress.net/rss/kinh-doanh.rss"},
+     {name : "Khoa học", link : "https://vnexpress.net/rss/khoa-hoc.rss"},
+     {name :"Start up", link : "https://vnexpress.net/rss/startup.rss"},
+     {name : "Số hoá", link : "https://vnexpress.net/rss/so-hoa.rss"},
+     {name : "Giải trí", link : "https://vnexpress.net/rss/giai-tri.rss"},
+     {name : "Ô tô - Xe máy", link : "https://vnexpress.net/rss/oto-xe-may.rss"},
+     {name : "Thể thao", link : "https://vnexpress.net/rss/the-thao.rss"},
+     {name : "Ý kiến", link : "https://vnexpress.net/rss/y-kien.rss"},
+     {name : "Pháp luật", link : "https://vnexpress.net/rss/phap-luat.rss"},
+     {name : "Tâm sự", link : "https://vnexpress.net/rss/tam-su.rss"},
+     {name : "Giáo dục", link : "https://vnexpress.net/rss/giao-duc.rss"},
+     {name : "Cười", link : "https://vnexpress.net/rss/cuoi.rss"},
+     {name : "Xem nhiều", link : "https://vnexpress.net/rss/tin-xem-nhieu.rss"},
+     {name : "Nổi bật", link : "https://vnexpress.net/rss/tin-noi-bat.rss"},
+]
